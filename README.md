@@ -23,6 +23,12 @@ The core engine and underlying mechanisms are proprietary and not included.
 - Demonstration of output behavior (avalanche effect)
 
 ---
+## Try the Engine
+Executable demo (black box version):
+
+→ Demo access available upon request
+
+Note: Core algorithms are proprietary and not included.
 
 ## Demonstration
 
