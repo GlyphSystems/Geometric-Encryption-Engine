@@ -47,6 +47,6 @@ The purpose of this repository is to:
 
 For serious inquiries, collaboration, or evaluation:
 
-My E-Mail Eugenerallen@gmail
+My E-Mail Eugenerallen@gmail.com
 
 My Linkenin is   www.linkedin.com/in/eugene-allen-491705357
