@@ -28,7 +28,7 @@ The core engine and underlying mechanisms are proprietary and not included.
 
 Video showing avalanche effect and output behavior:
 
-https://youtu.be/2kl3jP6bjgI?si=frReMLVZChTM_Nv
+(https://youtu.be/lkl3jPGbjug?si=pfZReMLV7czhTN_M)
 
 ---
 
